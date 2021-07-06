@@ -8,7 +8,5 @@ When I am not creating on my computer, my time is typically spent outdoors, with
 🌱 - I’m currently learning web secuirty theory, shopify, and personal finance.  
 ⚡ - Fun fact: I worked and trained as a raft guide through the NOC in western North Carolina and am currently working on my Life Coaching certficiation!  
 📫 - How to reach me:  
-
 Email: waddell.taylorw(at)gmail.com  
-  
 LinkedIn: www.linkedin.com/in/taylorwwaddell
