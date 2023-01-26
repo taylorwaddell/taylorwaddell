@@ -4,8 +4,8 @@ My name is Taylor and I'm from the boot state of Louisiana. I spend most of my t
 
 When I am not creating on my computer, my time is typically spent outdoors, with family & friends, or traveling. Whatever it is I'm doing though, the goal is to learn more and fuel the fire of passion!
 
-🔭 - I’m a Software Developer Intern working at Veris Global!  
-🌱 - I’m currently learning Python, C#, and Angular.  
+🔭 - I’m a UX Developer working at Veris Global!  
+🌱 - I’m currently learning Senior Dev Soft Skills (udemy course), Firebase, and Figma.  
 📫 - How to reach me:  
 Email: waddell.taylorw(at)gmail.com  
 LinkedIn: www.linkedin.com/in/taylorwwaddell
