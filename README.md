@@ -7,5 +7,5 @@ When I am not creating on my computer, my time is typically spent outdoors, with
 🔭 - I’m a UX Developer working at Veris Global!  
 🌱 - I’m currently learning Senior Dev Soft Skills (udemy course), Framer Motion, and Next.js.  
 📫 - How to reach me:  
-Email: waddell.taylorw(at)gmail.com  
+Email: email(at)twadd.dev
 LinkedIn: www.linkedin.com/in/taylorwwaddell
