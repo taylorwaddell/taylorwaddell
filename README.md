@@ -1,11 +1,18 @@
-### Hi there 👋
+_UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 
-My name is Taylor and I'm from the boot state of Louisiana. My days are dedicated to crafting digital art and code. I alternate between weaving intricate JavaScript and HTML, and creating vibrant vectors and designs. I'm constantly seeking ways to blend my love for nature with my passion for coding and design, hoping to find that perfect intersection of the great outdoors and the digital realm.
+#### shipped:
+- [twadd.dev](https://github.com/taylorwaddell/twadd-dev-2.0) - personal site built with the vanilla web stack.
+- [crsp](https://github.com/taylorwaddell/crsp-html) - christian resource starter pack. vanilla stack; one file.
+- (inactive) [registry links](https://github.com/taylorwaddell/registery-links) - wedding info hub built with Next.js, Supabase, and Tailwind CSS.
+- [dynamic-island](https://github.com/taylorwaddell/dynamic-island) - attempt to recreate the iconic dynamic island. Inspired by [@thomasauros](https://twitter.com/thomasauros/status/1632730698032316419).
+- [link landing](https://github.com/taylorwaddell/link-landing) - cause who wants to pay for link tree. vanilla web stack.
 
-When I am not creating on my computer, my time is typically spent outdoors, with family & friends, or traveling. Whatever it is I'm doing though, the goal is to learn more and fuel the fire of passion!
+#### completed:
+- [link shortener](https://github.com/taylorwaddell/rust-link-shortner) - built with rust.
+- [beautiful tabs](https://github.com/taylorwaddell/beautiful-tabs) - built with react and styled-components.
+- [json to resx converter](https://github.com/taylorwaddell/json-resx-converter) - util built with python.
+- [rename multiple files](https://github.com/taylorwaddell/rename_mulitple_files) - util built with python.
 
-🔭 - I’m a UX Developer working at Veris Global!  
-🌱 - I’m currently learning Senior Dev Soft Skills (udemy course), Angular, and Next.js.  
-📫 - How to reach me:  
-Email: email(at)twadd.dev
-LinkedIn: www.linkedin.com/in/taylorwwaddell
+#### currently:
+- rebuilding twadd.dev with the T3 stack. see [twadd3](https://github.com/taylorwaddell/twadd3).
+- often adding to [vanilla components](https://github.com/taylorwaddell/vanilla-components).
