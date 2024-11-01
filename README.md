@@ -1,7 +1,7 @@
 _UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 
 #### shipped:
-- [twadd3](https://github.com/taylorwaddell/twadd3) - personal site built with the T3 stack.
+- [twadd](https://github.com/taylorwaddell/twadd3) - personal site built with the T3 stack.
 - [crsp](https://github.com/taylorwaddell/crsp-html) - christian resource starter pack. vanilla stack; one file.
 - (inactive) [registry links](https://github.com/taylorwaddell/registery-links) - wedding info hub built with Next.js, Supabase, and Tailwind CSS.
 - [dynamic-island](https://github.com/taylorwaddell/dynamic-island) - attempt to recreate the iconic dynamic island. Inspired by [@thomasauros](https://twitter.com/thomasauros/status/1632730698032316419).
