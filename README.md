@@ -12,7 +12,8 @@ _UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 - [beautiful tabs](https://github.com/taylorwaddell/beautiful-tabs) - built with react and styled-components.
 - [json to resx converter](https://github.com/taylorwaddell/json-resx-converter) - util built with python.
 - [rename multiple files](https://github.com/taylorwaddell/rename_mulitple_files) - util built with python.
+- Old twadd.dev with the vanilla stack. see [twadd.dev](https://github.com/taylorwaddell/twadd-dev-2.0).
 
 #### currently:
-- Old twadd.dev with the vanilla stack. see [twadd.dev](https://github.com/taylorwaddell/twadd-dev-2.0).
+- architecting & executing a ux master plan for [Veris Global](verisglobal.com).
 - often adding to [vanilla components](https://github.com/taylorwaddell/vanilla-components).
