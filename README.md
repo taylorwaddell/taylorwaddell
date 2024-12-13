@@ -8,6 +8,7 @@ _UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 - [link landing](https://github.com/taylorwaddell/link-landing) - cause who wants to pay for link tree. vanilla web stack.
 
 #### completed:
+- [mindrop](https://github.com/taylorwaddell/mindrop) - i love the native mac color picker but wanted keyboard shortcuts.
 - [link shortener](https://github.com/taylorwaddell/rust-link-shortner) - built with rust.
 - [beautiful tabs](https://github.com/taylorwaddell/beautiful-tabs) - built with react and styled-components.
 - [json to resx converter](https://github.com/taylorwaddell/json-resx-converter) - util built with python.
