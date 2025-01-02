@@ -1,7 +1,7 @@
 _UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 
 #### shipped:
-- [twadd](https://github.com/taylorwaddell/twadd3) - personal site built with the T3 stack.
+- [twadd](https://twadd.dev) - personal site built with the T3 stack.
 - [mindrop](https://mindrop.ink) - i love the native mac color picker but wanted keyboard shortcuts. built in swift.
 - [crsp](https://github.com/taylorwaddell/crsp-html) - christian resource starter pack. vanilla stack; one file.
 - (inactive) [registry links](https://github.com/taylorwaddell/registery-links) - wedding info hub built with Next.js, Supabase, and Tailwind CSS.
