@@ -17,6 +17,6 @@ _UX Engineer_ working at [Veris Global](https://verisglobal.com/).
 
 #### currently:
 - architecting & executing a ux master plan for [Veris Global](verisglobal.com).
-- building a web app that writes my meeting notes for me (Next.js, Deepgram API, OpenAI API).
+- working on [remembrall](https://github.com/taylorwaddell/remembrall) - using AI for better bookmarks, small notes, and remembering random little things.
 - building a _good_ dictionary app (React Native via Expo).
 - often adding to [vanilla components](https://github.com/taylorwaddell/vanilla-components).
